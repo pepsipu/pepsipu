@@ -1,5 +1,4 @@
 # Sammy Hajhamid - @pepsipu
-### active projects
 #### xinOS
 operating system that's optimized to play games.
 
