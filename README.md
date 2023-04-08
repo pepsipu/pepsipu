@@ -1,5 +1,5 @@
 # Sammy Hajhamid - @pepsipu
 
 ## ctfs
-i play ctfs with [redpwn](https://ctftime.org/team/59759).
+i play ctfs with [dicegang](https://dicega.ng/).
 i writeup ctf challenges on [my blog](https://blog.pepsipu.com)
